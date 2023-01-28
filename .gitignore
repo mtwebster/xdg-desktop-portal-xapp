@@ -1,0 +1,8 @@
+debian/*.debhelper
+debian/*.log
+debian/*.substvars
+debian/debhelper-build-stamp
+debian/files
+debian/tmp
+debian/xdg-desktop-portal-cinnamon-dbg/
+debian/xdg-desktop-portal-cinnamon/
